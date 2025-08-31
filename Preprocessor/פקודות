@@ -1,0 +1,2 @@
+#פקודה להוריד את הקבצים שצריך כדי למצוא את השורש במנקה
+python download_nltk_resources.py
